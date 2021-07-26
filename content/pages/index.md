@@ -4,10 +4,7 @@ sections:
   - type: hero_section
     title: Colin & Alysa are getting married.
     subtitle: '2/20/2022 in Naples, Florida'
-    actions:
-      - label: Contact Me
-        url: /contact
-        style: primary
+    actions: []
     image: images/hero.png
     image_alt: A smiling woman
     media_position: right
