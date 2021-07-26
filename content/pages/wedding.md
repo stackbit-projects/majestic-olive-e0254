@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Alysa & Colin are getting Married
 seo:
   title: ''
   description: ''
