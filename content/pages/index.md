@@ -220,7 +220,7 @@ sections:
     background_image_repeat: no-repeat
     type: grid_section
 seo:
-  title: Stackbit Personal Theme
+  title: 'Colin & Alysa are Getting Married in Naples, FL 2/20/2022'
   description: The preview of the Personal theme
   extra:
     - name: 'og:type'
