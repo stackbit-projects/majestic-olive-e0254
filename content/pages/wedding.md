@@ -8,9 +8,10 @@ seo:
   type: stackbit_page_meta
 layout: page
 ---
-## Lorem ipsum
+## Sunday, February 20, 2022
 
-Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+in Naples, Florida
 
-- Lorem ipsum
-- dolor sit amet
+The ceremony will be held at the Baer residence with reception following at Hamilton Harbor Yacht Club.  Parking will be at Hamilton Harbor with shuttles to the Baer residence due to limited parking. 
+
+More details to follow.
