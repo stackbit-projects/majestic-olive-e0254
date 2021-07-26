@@ -202,7 +202,6 @@ sections:
     background_image_size: contain
     background_image_opacity: 8
   - section_id: lorem-ipsum
-    title: lorem-ipsum
     subtitle: Built with heaps of love by Colin
     actions: []
     grid_items: []
