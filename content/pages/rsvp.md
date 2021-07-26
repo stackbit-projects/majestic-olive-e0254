@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: RSVP
 seo:
   title: ''
   description: ''
