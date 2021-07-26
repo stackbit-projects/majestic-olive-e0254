@@ -221,7 +221,9 @@ sections:
     type: grid_section
 seo:
   title: 'Colin & Alysa are Getting Married in Naples, FL 2/20/2022'
-  description: The preview of the Personal theme
+  description: >-
+    Two super awesome people doing super awesome stuff with their super awesome
+    friends and family in Florida with hopefully super awesome weather.
   extra:
     - name: 'og:type'
       value: website
